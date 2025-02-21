@@ -68,6 +68,17 @@ elif page == "Experiência":
             pagar, cadastros gerais, pedidos, faturamento, contabilidade, BI, expedição e estoque, Correção de bugs, auxiliando a estabilidade, disponibilidade e integridade do sistema em
 geral. Desenvolvimento de novos módulos e desenvolvimento de APIs RESTful para integração com sistemas externos. Desenvolvimento de aplicações web para integração com APIs de terceiros.          
              ''')
+    
+    st.write("### **Empresa:** Cyncly")
+    st.write("**Função:** Desenvolvedor full stack")
+    st.write("**Período:**  1 Ano e 10 Meses")
+    st.write("**Atividades:**")
+    st.write('''Implementação de melhorias na área contábil e fiscal do ERP.
+Correção de bugs, auxiliando a estabilidade, disponibilidade e integridade do sistema em
+geral;
+Análise de regra de negócio junto a equipe de suporte/implantação para buscar atender o
+cliente;         
+             ''')    
 
 elif page == "Habilidades":
     st.write("# 🛠️ Habilidades")
